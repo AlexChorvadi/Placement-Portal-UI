@@ -7,8 +7,8 @@ A full-stack MERN-based placement portal built to streamline student-company-adm
 ## Overview
 
 This project allows:
-- Students to register, log in, apply for jobs, and upload resumes.
-- Companies to post jobs and manage recruitment activities.
+- Students to register, log in, apply for jobs, upload resumes, and join interview sessions.
+- Companies to post jobs, manage recruitment activities, and conduct real-time interviews.
 - Admins to oversee platform operations, approve or manage users, and receive registration notifications.
 
 ## Tech Stack
@@ -28,6 +28,7 @@ This project allows:
 - Admin registration protected by a secret key
 - Automatic filtering of expired jobs with persistence for applied applications
 - Resume upload support using Multer
+- Real-time video interviews powered by Jitsi Meet
 - Automated email alerts sent to admins for new company registrations
 
 ## Project Structure
