@@ -93,7 +93,7 @@ ADMIN_SECRET_KEY=your_admin_secret_key
 
 ## Login Details
 
-Use test Login Email Passwords
+Use this test Login Email Passwords or you can register new using Create an account option on login screen
 
 ```Login
 - student 
