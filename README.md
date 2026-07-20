@@ -88,8 +88,8 @@ ADMIN_SECRET_KEY=your_admin_secret_key
 
 ## Deployment
 
-- Frontend: Add your Render URL here later
-- Backend: Add your Render URL here
+- Frontend: https://placementconnect.netlify.app/
+- Backend: https://placement-portal-api-qsfx.onrender.com
 
 ## Login Details
 
