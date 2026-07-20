@@ -92,6 +92,10 @@ ADMIN_SECRET_KEY=your_admin_secret_key
 - Backend: Add your Render URL here
 
 ## Login Details
+
+Use test Login Email Passwords
+
+```Login
 - student 
 email - student@gmail.com
 passs - 123456
@@ -103,3 +107,4 @@ passs - 123456
 - admin
 email - admin@gmail.com
 passs - 123456
+```
