@@ -1,3 +1,5 @@
+Live url: [click](https://placementconnect.netlify.app/)
+
 # Placement Portal
 
 A full-stack MERN-based placement portal built to streamline student-company-admin interactions for job applications, interviews, and recruitment workflows.
@@ -35,9 +37,6 @@ frontend/
   src/
   public/
   package.json
-backend/
-  src/
-  server.js
 ```
 
 ## API Endpoints
