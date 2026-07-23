@@ -1,5 +1,23 @@
 Live url: [click](https://placementconnect.netlify.app/)
 
+## Login Details
+
+Use this test Login Email & Passwords or you can register new using Create an account option on login screen.
+
+```Login
+- student 
+email - student@gmail.com
+passs - 123456
+
+- company
+email - company@gmail.com
+passs - 123456
+
+- admin
+email - admin@gmail.com
+passs - 123456
+```
+
 # Placement Portal
 
 A full-stack MERN-based placement portal built to streamline student-company-admin interactions for job applications, interviews, and recruitment workflows.
@@ -90,21 +108,3 @@ ADMIN_SECRET_KEY=your_admin_secret_key
 
 - Frontend: https://placementconnect.netlify.app/
 - Backend: https://placement-portal-api-qsfx.onrender.com
-
-## Login Details
-
-Use this test Login Email Passwords or you can register new using Create an account option on login screen
-
-```Login
-- student 
-email - student@gmail.com
-passs - 123456
-
-- company
-email - company@gmail.com
-passs - 123456
-
-- admin
-email - admin@gmail.com
-passs - 123456
-```
